@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning: An Introduction Through Nuclear Science"
+title: "Radiation Detection Data Analytics"
 collection: teaching
 type: "Short Course"
 permalink: /teaching/2020-eti-summerschool-2
