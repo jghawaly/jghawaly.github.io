@@ -4,7 +4,7 @@ collection: teaching
 type: "Senior-level Undergraduate Course"
 permalink: /teaching/2023-lsu-llm-3
 venue: "Louisiana State University"
-date: "Fall 2023"
+date: 2023-08-22
 location: "Baton Rouge, Louisiana"
 ---
 
