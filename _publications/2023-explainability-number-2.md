@@ -1,7 +1,7 @@
 ---
 title: "Explaining machine-learning models for gamma-ray detection and identification"
 collection: publications
-#permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-explainability-number-2
 excerpt: 'This work evaluates a variety of neural network explainability approaches for explaining deep learning models trained to perform gamma-ray spectroscopy.'
 date: 2023-06-20
 venue: 'PLoS ONE'

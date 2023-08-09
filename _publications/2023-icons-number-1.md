@@ -1,7 +1,7 @@
 ---
 title: "Performance Optimization Study of the Neuromorphic Radiation Anomaly Detector"
 collection: publications
-#permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-icons-number-1
 excerpt: 'This work reports on new results and insights from the optimization of spiking neural networks developed for gamma-ray radiation anomaly detection.'
 date: 2023-08-01
 venue: '2023 International Conference on Neuromorphic Systems'

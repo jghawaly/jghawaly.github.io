@@ -1,7 +1,7 @@
 ---
 title: "Characterization of the Autoencoder Radiation Anomaly Detection (ARAD) model"
 collection: publications
-#permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-arad-number-5
 excerpt: 'In this work we demonstrate an in-depth analysis and characterization of the Autoencoder Radiation Anomaly Detection (ARAD) algorithm. ARAD is a deep convolutional autoencoder designed to detect anomalous radioactive signatures in gamma-ray spectra collected by NaI(Tl) detectors. '
 date: 2022-05-01
 venue: 'Engineering Applications of Artificial Intelligence'

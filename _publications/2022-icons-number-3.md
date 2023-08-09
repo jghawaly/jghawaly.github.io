@@ -1,7 +1,7 @@
 ---
 title: "A Neuromorphic Algorithm for Radiation Anomaly Detection"
 collection: publications
-#permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-icons-number-3
 excerpt: 'In this work, we present initial results on the development of a neuromorphic spiking neural network for performing gamma-ray radiation anomaly detection, the first known application of neuromorphic computing to be applied to the radiation detection domain.'
 date: 2022-09-07
 venue: '2022 International Conference on Neuromorphic Systems'

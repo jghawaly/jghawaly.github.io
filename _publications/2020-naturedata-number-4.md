@@ -1,7 +1,7 @@
 ---
 title: "Data for Training and Testing Radiation Detection Algorithms in an Urban Environment"
 collection: publications
-#permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-naturedata-number-4
 excerpt: 'To encourage the development of new detection, radioisotope identification, and source localization algorithms, a dataset consisting of realistic Monte Carlo–simulated radiation detection data from a 2 in. × 4 in. × 16 in. NaI(Tl) scintillation detector moving through a simulated urban environment based on Knoxville, Tennessee, was developed and made public in the form of a Topcoder competition.'
 date: 2020-10-05
 venue: 'Nature Scientific Data'
