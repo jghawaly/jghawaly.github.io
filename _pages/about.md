@@ -9,3 +9,19 @@ redirect_from:
 ---
 
 I am a senior research scientist with the Louisiana State University (LSU) Stephenson Disaster Management Institute (SDMI). I am leading a new research program within SDMI that focuses on emerging artificial intelligence and machine learning approaches to national security, homeland security, and disaster management. I began my career with Oak Ridge National Laboratory (ORNL) as a research data scientist in the Advanced Radiation Detection, Imaging, Data Science, and Applications (ARDIDSA) group. Throughout my education and career, I have developed a strong passion for neuromorphic computing, applied deep learning, and machine learning-enabled sensing.
+
+Research Areas
+======
+1. Applied Deep Learning
+2. Neuromorphic Computing
+3. ML-enabled Sensing
+4. Radiation Detection
+
+MSc Thesis
+======
+[A Neuroscience-inspired Approach to Training Spiking Neural Networks](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7158&context=utk_gradthes)
+
+PhD Dissertation
+======
+[A Datacentric Algorithm for Gamma-ray Radiation Anomaly Detection in Unknown Background Environments](https://trace.tennessee.edu/utk_graddiss/6943/)
+
