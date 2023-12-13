@@ -15,7 +15,7 @@ Research Areas
 1. Applied deep learning
 2. Neuromorphic computing
 3. Large Language Model Application Development
-4. ML-enabled sensing, especially for Radiation Detection
+4. ML-enabled sensing
 
 MSc Thesis
 ======
