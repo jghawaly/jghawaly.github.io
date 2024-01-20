@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior research scientist with the Louisiana State University (LSU) Stephenson Disaster Management Institute (SDMI). I am leading a new research program within SDMI that focuses on emerging artificial intelligence and machine learning approaches to national security, homeland security, and emergency response. I also develop large language models for improving the efficiency of business operations dealing with natural language processing tasks. I began my career with Oak Ridge National Laboratory (ORNL) as a research data scientist in the Advanced Radiation Detection, Imaging, Data Science, and Applications (ARDIDSA) group. Throughout my education and career, I have developed a strong passion for neuromorphic computing, applied deep learning, and machine learning-enabled sensing.
+I am an Assistant Professor of Computer Science & Engineering at Louisiana State University (LSU), where I research modern and emerging machine learning techniques, with applications to national security, especially cybersecurity. I also hold joint appointments with the LSU Center for Computation and Technology (CCT) and the LSU Office of Academic Affairs (OAA). Prior to LSU, I was a staff research data scientist at Oak Ridge National Laboratory (ORNL), where I led research efforts to develop applied deep learning and neuromorphic computing approaches for federal sponsors. Recently, my work has been centered around transformer technology and Large Language Model (LLM) research. This focus includes implementing these models in security-related applications, as well as investigating the security and potential security vulnerabilities within LLM 
+systems themselves. At LSU, I teach a course on LLMs for undergraduate upperclassman and am developing a graduate-level deep learning course focusing on transformers and other emerging deep learning architectures. Throughout my education and career, I have developed a strong passion for neuromorphic computing, applied deep learning, and machine learning-enabled sensing.
 
 Research Areas
 ======
 1. Applied deep learning
 2. Neuromorphic computing
 3. Large Language Model Application Development
-4. ML-enabled sensing
+4. Intelligent sensing
 
 MSc Thesis
 ======
