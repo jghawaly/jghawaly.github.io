@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-tnm-number-6
 excerpt: 'In this paper, we explore the application of Low-Rank Adaptation (LoRA) fine-tuning of small language models for performing TNM staging on unstructured pathology reports for triple negative breast cancer cases. We also attempt to develop a more generalized approach, so that our work can be applied to other NLP tasks within the medical field.'
 date: 2022-05-01
-venue: 'Engineering Applications of Artificial Intelligence'
+venue: 'AAAI 2024 Spring Symposium on Clinical Foundation Models'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'McCleary, K., Ghawaly, J., & Miele, L. (2024). TNM Tumor Classification from Unstructured Breast Cancer Pathology Reports using LoRA Finetuning of Mistral 7B. In AAAI 2024 Spring Symposium on Clinical Foundation Models.'
 ---
