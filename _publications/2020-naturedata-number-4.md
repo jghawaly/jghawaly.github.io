@@ -5,7 +5,7 @@ permalink: /publication/2020-naturedata-number-4
 excerpt: 'To encourage the development of new detection, radioisotope identification, and source localization algorithms, a dataset consisting of realistic Monte Carlo–simulated radiation detection data from a 2 in. × 4 in. × 16 in. NaI(Tl) scintillation detector moving through a simulated urban environment based on Knoxville, Tennessee, was developed and made public in the form of a Topcoder competition.'
 date: 2020-10-05
 venue: 'Nature Scientific Data'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.nature.com/articles/s41597-020-00672-2)'
 # citation: 'James M. Ghawaly Jr., Aaron Young, Andrew Nicholson, Brett Witherspoon, Nick Prins, Matthew Swinney, Cihangir Celik, Catherine D. Schuman, and Karan Pankaj Kumar Patel. 2023. Performance Optimization Study of the Neuromorphic Radiation Anomaly Detector. In International Conference on Neuromorphic Systems (ICONS ’23), August 1–3, 2023, Santa Fe, NM, USA. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3589737.3605980'
 ---
 
