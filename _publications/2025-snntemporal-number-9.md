@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2025-snntemporal-number-9
 excerpt: "We present a general framework for training spiking neural networks (SNNs) to perform binary classification on multivariate time series, with a focus on step-wise prediction and high precision at low false alarm rates."
 date: 2025-07-02
-venue: '2025 IJCNN'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S2666281725000113'
+venue: 'IJCNN'
+# paperurl: ''
 citation: 'Ghawaly, J., Nicholson, A., Schuman, C., Diez, D., Young, A., & Witherspoon, B. (2025). Exploring Spiking Neural Networks for Binary Classification in Multivariate Time Series at the Edge. 2025 International Joint Conference on Neural Networks (IJCNN). In press.'
 ---
 
