@@ -6,7 +6,7 @@ excerpt: "In this work, we introduce ForensicLLM, a 4-bit quantized LLaMA-3.1-8B
 date: 2025-12-12
 venue: '2025 DFRWS EU'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2666281725000113'
-citation: 'Sharma, B., Ghawaly, J., McCleary, K., Webb, A. M., & Baggili, I. (2025). ForensicLLM: A local large language model for digital forensics. Forensic Science International: Digital Investigation, 52, 301872.'
+# citation: 'Sharma, B., Ghawaly, J., McCleary, K., Webb, A. M., & Baggili, I. (2025). ForensicLLM: A local large language model for digital forensics. Forensic Science International: Digital Investigation, 52, 301872.'
 ---
 
 Abstract:
