@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Computer Science & Engineering at Louisiana State University (LSU), where I research modern and emerging machine learning techniques, with applications to national security, especially cybersecurity. I also hold joint appointments with the LSU Center for Computation and Technology (CCT) and the LSU Office of Academic Affairs (OAA). Prior to LSU, I was a staff research data scientist at Oak Ridge National Laboratory (ORNL), where I led research efforts to develop applied deep learning and neuromorphic computing approaches for federal sponsors. Recently, my work has been centered around transformer technology and Large Language Model (LLM) research. This focus includes implementing these models in security-related applications, as well as investigating the security and potential security vulnerabilities within LLM 
-systems themselves. At LSU, I teach a course on LLMs for undergraduate upperclassman and am developing a graduate-level deep learning course focusing on transformers and other emerging deep learning architectures. Throughout my education and career, I have developed a strong passion for neuromorphic computing, applied deep learning, and machine learning-enabled sensing.
+I am an Assistant Professor of Computer Science & Engineering at Louisiana State University (LSU), with a joint appointment in the LSU Center for Computation & Technology (CCT). I lead two overlapping research thrusts: (1) modern and emerging deep learning—especially transformers and large language models (LLMs)—applied to intelligent sensing and decision support, with emphasis on national security use cases such as intrusion detection, radioactive source search and identification, and other high-stakes time-series problems; and (2) neuromorphic computing algorithms (spiking neural networks), spanning both applied work on ultra-low-power, spike-native models for edge sensing and foundational work on training methods, robustness, and design principles for spike-based architectures. I am the lead designer and developer of MikeGPT, LSU’s in-house LLM agent for interacting with the university’s broad data ecosystem. Prior to LSU, I was a staff research data scientist at Oak Ridge National Laboratory (ORNL), where I led applied deep learning and neuromorphic projects for federal sponsors. At LSU, I teach an upper-division course on LLMs and a graduate course on advanced deep learning focused on transformers and emerging architectures. Across my projects, I’m motivated by mission-driven AI that advances capability while approaching the efficiency of biological neural systems.
 
 Research Areas
 ======
-1. Applied deep learning
-2. Neuromorphic computing
-3. Large Language Model Application Development
-4. Intelligent sensing
+1. Modern deep learning for intelligent sensing
+2. Neuromorphic computing with spiking neural networks
+3. LLM Systems
 
 MSc Thesis
 ======
